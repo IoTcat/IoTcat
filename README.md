@@ -10,8 +10,8 @@
 ### I'm IoTcat
 
 - An Electrical & Computer Engineering Master Student
-- Debian User
-- Studying C/C++, Go & Rust
+- Debian User  <img width="15" src="https://www.debian.org/logos/openlogo-nd.svg" />
+- Studying C/C++, Go <img width="15" src="https://go.dev/favicon.ico" /> & Rust <img width="15" src="https://www.rust-lang.org/logos/rust-logo-32x32-blk.png" />
 - ACG Lover, KyoAni Fans
 
 ### My Projects
