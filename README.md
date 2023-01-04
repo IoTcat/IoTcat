@@ -23,6 +23,6 @@
 - [Curriculum Vitae](https://yimian.xyz/)
 - [PGP](https://keys.openpgp.org/vks/v1/by-fingerprint/C0D87F01EE765A2287531F2FDBD73FCA75D4768B) Fingerprint: C0D8 7F01 EE76 5A22 8753  1F2F DBD7 3FCA 75D4 768B
    
-[![IoTcat github stats](https://github-readme-stats.vercel.app/api?username=IoTcat&count_private=true&title_color=A821DE)](https://github.com/IoTcat/)   
+[![IoTcat github stats](https://github-readme-stats.vercel.app/api?username=IoTcat&count_private=true&title_color=A821DE&hide=contribs)](https://github.com/IoTcat/)   
 
 
