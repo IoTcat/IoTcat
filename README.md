@@ -1,7 +1,8 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=IoTcat&&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/IoTcat)   
-[![IoTcat github stats](https://github-readme-stats.vercel.app/api?username=IoTcat&show_icons=true)](https://github.com/IoTcat/)   
+<div align=center>
+<a href="https://wakatime.com/@iotcat"><img width="400" src="https://wakatime.com/share/@f59a96b0-dfbd-4c52-8d09-b889d6d2bbdd/a6e069a0-09fb-4456-a132-6d1f11fae51d.svg"/></a>
+</div>
 
-<img max-width="80" src="https://wakatime.com/share/@f59a96b0-dfbd-4c52-8d09-b889d6d2bbdd/a6e069a0-09fb-4456-a132-6d1f11fae51d.svg">
+[![IoTcat github stats](https://github-readme-stats.vercel.app/api?username=IoTcat&show_icons=true)](https://github.com/IoTcat/)   
 
 [![wakatime](https://wakatime.com/badge/user/f59a96b0-dfbd-4c52-8d09-b889d6d2bbdd.svg)](https://wakatime.com/@iotcat)
 ![](https://hits-app.vercel.app/hits?url=https://github.com/iotcat)
