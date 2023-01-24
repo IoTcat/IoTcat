@@ -1,4 +1,4 @@
-## Hello 👋
+## Hello<img src="https://slackmojis.com/emojis/22158-oh-hello/download" width="37" />
 
 [![wakatime](https://wakatime.com/badge/user/f59a96b0-dfbd-4c52-8d09-b889d6d2bbdd.svg)](https://wakatime.com/@iotcat)
 [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=@IoTcat&color=0088cc)](https://t.me/IoTcat)
