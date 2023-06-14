@@ -24,6 +24,6 @@
 - [Curriculum Vitae](https://github.com/IoTcat/resume)
 - [PGP](https://raw.githubusercontent.com/IoTcat/iotcat.me/gh-pages/iotcat.asc) Fingerprint: C0D8 7F01 EE76 5A22 8753  1F2F DBD7 3FCA 75D4 768B
    
-[![IoTcat github stats](https://github-readme-stats.vercel.app/api?username=IoTcat&count_private=true&title_color=A821DE&hide=contribs&include_all_commits=true)](https://github.com/IoTcat/)   
+[![IoTcat github stats](https://github-readme-stats.vercel.app/api?username=IoTcat&count_private=true&title_color=A821DE&hide=contribs&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats#github-stats-card)   
 
 
