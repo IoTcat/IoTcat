@@ -12,7 +12,7 @@
 - Electrical & Computer Engineering Master Student at Cornell <img width="15" src="https://www.cornell.edu/favicon.ico" />
 - Passionate about IoT, ML, and Distributed Computing
 - Debian User  <img width="15" src="https://www.debian.org/logos/openlogo-nd.svg" />
-- Studying C/C++, Python, Go <img width="15" src="https://go.dev/favicon.ico" /> & Rust <img width="15" src="https://rustacean.net/favicon.png" />
+- Studying Python, C/C++, TypeScript, Go <img width="15" src="https://go.dev/favicon.ico" /> & Rust <img width="15" src="https://rustacean.net/favicon.png" />
 - ACG Lover, KyoAni Fans
 
 ### My Projects
