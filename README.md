@@ -3,7 +3,7 @@
 [![wakatime](https://wakatime.com/badge/user/f59a96b0-dfbd-4c52-8d09-b889d6d2bbdd.svg)](https://wakatime.com/@iotcat)
 [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=@IoTcat&color=0088cc)](https://t.me/IoTcat)
 [![Blog](https://img.shields.io/badge/Blog-eee.dog-c14438?style=flat&link=https://eee.dog)](https://eee.dog)
-![Hits](https://hits-app.vercel.app/hits?url=https://github.com/iotcat)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiotcat&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/iotcat)
 
 ---
 
